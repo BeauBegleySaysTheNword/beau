@@ -1,0 +1,46 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 255 , 0)
+}
+
+.beau {
+    width: 20%;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30%;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0%;
+}
+.arrow {
+    margin-left: 50%;
+    margin-top: 5%;
+    margin-bottom: 40%;
+}
+
+.intro {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 40%;
+}
+
+.obituary {
+    margin-bottom: 50%;
+}
+.arrow1 {
+    margin-left: 50%;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
